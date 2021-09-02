@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2bc5f6ae.chunk.css",
+    "main.js": "/static/js/main.bde86f52.chunk.js",
+    "main.js.map": "/static/js/main.bde86f52.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b7fcb17d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b7fcb17d.js.map",
+    "static/js/2.85813b81.chunk.js": "/static/js/2.85813b81.chunk.js",
+    "static/js/2.85813b81.chunk.js.map": "/static/js/2.85813b81.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.2bc5f6ae.chunk.css.map": "/static/css/main.2bc5f6ae.chunk.css.map",
+    "static/js/2.85813b81.chunk.js.LICENSE.txt": "/static/js/2.85813b81.chunk.js.LICENSE.txt",
+    "static/media/adeeb.6fda2f8a.jpg": "/static/media/adeeb.6fda2f8a.jpg",
+    "static/media/hero-img.593960b6.png": "/static/media/hero-img.593960b6.png",
+    "static/media/prtk1.68604660.jpg": "/static/media/prtk1.68604660.jpg",
+    "static/media/skills.d55a75f7.png": "/static/media/skills.d55a75f7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7fcb17d.js",
+    "static/js/2.85813b81.chunk.js",
+    "static/css/main.2bc5f6ae.chunk.css",
+    "static/js/main.bde86f52.chunk.js"
+  ]
+}

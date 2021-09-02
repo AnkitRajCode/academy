@@ -1,25 +1,28 @@
-import logo from './logo.svg';
+import {BrowserRouter, Route , Switch } from 'react-router-dom';
+import Navbar from './components/Navbar';
+import Landing from './pages/Landing';
 import './App.css';
+import Footer from './components/Footer';
+import Form from './components/Form';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+const App = () => {
+    return (
+       <div className="App">
+         <Navbar />
+         <BrowserRouter>
+            <Switch>
+              <Route exact path={"/"}>
+                <Landing />
+              </Route>
+              <Route exact path={"/apply"}>
+                <Form />
+              </Route>
+              <Route render={()=><div className="main_title_error">404 : Page Not Found</div>} />
+            </Switch>
+         </BrowserRouter>
+         <Footer />
+       </div>
+    );
 }
 
 export default App;

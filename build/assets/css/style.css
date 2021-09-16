@@ -154,7 +154,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0;
 }
 
-.navbar ul {
+/* .navbar ul {
   margin: 0;
   padding: 0;
   display: flex;
@@ -164,9 +164,9 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar li {
   position: relative;
-}
+} */
 
-.navbar a, .navbar a:focus {
+/* .navbar a, .navbar a:focus {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -176,9 +176,9 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   white-space: nowrap;
   transition: 0.3s;
-}
+} */
 
-.navbar a i, .navbar a:focus i {
+/* .navbar a i, .navbar a:focus i {
   font-size: 12px;
   line-height: 0;
   margin-left: 5px;
@@ -186,10 +186,11 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
   color: #ffde59;
-}
+} */
 
 .navbar .getstarted {
   padding: 8px 20px;
+  margin-top: 20px!important;
   margin-left: 30px;
   border-radius: 50px;
   color: #fff;
@@ -204,8 +205,14 @@ h1, h2, h3, h4, h5, h6 {
   background: #ff5757;
   border: 2px solid #ff5757;
 }
+@media (max-width: 800px) {
+  .navbar .getstarted {
+    margin-left: 0px;
+    margin-top: 10px!important;
+  }
+}
 
-.navbar .dropdown ul {
+/* .navbar .dropdown ul {
   display: block;
   position: absolute;
   left: 14px;
@@ -219,13 +226,13 @@ h1, h2, h3, h4, h5, h6 {
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
   transition: 0.3s;
   border-radius: 4px;
-}
+} */
 
-.navbar .dropdown ul li {
+/* .navbar .dropdown ul li {
   min-width: 200px;
-}
+} */
 
-.navbar .dropdown ul a {
+/* .navbar .dropdown ul a {
   padding: 10px 20px;
   font-size: 14px;
   text-transform: none;
@@ -239,9 +246,9 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
   color: #47b2e4;
-}
+} */
 
-.navbar .dropdown:hover > ul {
+/* .navbar .dropdown:hover > ul {
   opacity: 1;
   top: 100%;
   visibility: visible;
@@ -251,28 +258,28 @@ h1, h2, h3, h4, h5, h6 {
   top: 0;
   left: calc(100% - 30px);
   visibility: hidden;
-}
-
+} */
+/* 
 .navbar .dropdown .dropdown:hover > ul {
   opacity: 1;
   top: 0;
   left: 100%;
   visibility: visible;
-}
+} */
 
-@media (max-width: 1366px) {
+/* @media (max-width: 1366px) {
   .navbar .dropdown .dropdown ul {
     left: -90%;
   }
   .navbar .dropdown .dropdown:hover > ul {
     left: -100%;
   }
-}
+} */
 
 /**
 * Mobile Navigation 
 */
-.mobile-nav-toggle {
+/* .mobile-nav-toggle {
   color: #fff;
   font-size: 28px;
   cursor: pointer;
@@ -371,7 +378,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar-mobile .dropdown > .dropdown-active {
   display: block;
-}
+} */
 
 /*--------------------------------------------------------------
 # Hero Section
@@ -1255,7 +1262,7 @@ section {
 
 .pricing .buy-btn {
   display: inline-block;
-  padding: 12px 35px;
+  padding: 12px 30px;
   border-radius: 50px;
   color: #a6a6a6;
   transition: none;

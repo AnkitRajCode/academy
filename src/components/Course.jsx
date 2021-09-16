@@ -11,17 +11,17 @@ const Course = () => {
                     <div className="row">
                         <div className="col-lg-4" data-aos="fade-up" data-aos-delay="100">
                             <div className="box">
-                            <h3>C Programming</h3>
+                            <h2>C Programming</h2>
                             <h6>Pre-Requisite : N/A</h6>
                             <h4><sup>₹</sup>3000<span>15 Hours</span></h4>
                             <a href="/apply" target="_blank"  className="buy-btn">Apply Now </a>
-                            <a href="https://www.google.com" target="_blank" className="buy-btn">Brochure</a>
+                            <a href="https://www.google.com" target="_blank" className="buy-btn ml-sm-2">Brochure</a>
                             </div>
                         </div>
 
-                        <div className="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
+                        <div className="col-lg-4 mt-4 mt-lg-3" data-aos="fade-up" data-aos-delay="300">
                             <div className="box">
-                            <h3>C++</h3>
+                            <h2>C++</h2>
                             <h6>Pre-Requisite : N/A</h6>
                             <h4><sup>₹</sup>3500<span>20 Hours</span></h4>
                             <a href="/apply" className="buy-btn">Apply Now</a>
@@ -29,9 +29,9 @@ const Course = () => {
                             </div>
                         </div>
 
-                        <div className="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
+                        <div className="col-lg-4 mt-4 mt-lg-3" data-aos="fade-up" data-aos-delay="300">
                             <div className="box">
-                            <h3>Java</h3>
+                            <h2>Java</h2>
                             <h6>Pre-Requisite : N/A</h6>
                             <h4><sup>₹</sup>5000<span>20 Hours</span></h4>
                             <a href="/apply" className="buy-btn">Apply Now</a>
@@ -39,9 +39,9 @@ const Course = () => {
                             </div>
                         </div>
                     
-                        <div className="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
+                        <div className="col-lg-4 mt-4 mt-lg-3" data-aos="fade-up" data-aos-delay="300">
                             <div className="box">
-                            <h3>Python</h3>
+                            <h2>Python</h2>
                             <h6>Pre-Requisite : N/A</h6>
                             <h4><sup>₹</sup>4000<span>15 Hours</span></h4>
                             <a href="/apply" className="buy-btn">Apply Now</a>
@@ -49,9 +49,9 @@ const Course = () => {
                             </div>
                         </div>
                     
-                        <div className="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
+                        <div className="col-lg-4 mt-4 mt-lg-3" data-aos="fade-up" data-aos-delay="300">
                             <div className="box">
-                            <h3>SQL</h3>
+                            <h2>SQL</h2>
                             <h6>Pre-Requisite : N/A</h6>
                             <h4><sup>₹</sup>3000<span>10 Hours</span></h4>
                             <a href="/apply" className="buy-btn">Apply Now</a>
@@ -59,9 +59,9 @@ const Course = () => {
                             </div>
                         </div>
                     
-                        <div className="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
+                        <div className="col-lg-4 mt-4 mt-lg-3" data-aos="fade-up" data-aos-delay="300">
                             <div className="box">
-                            <h3>Web Design</h3>
+                            <h2>Web Design</h2>
                             <h6>Pre-Requisite : N/A</h6>
                             <h4><sup>₹</sup>6000<span>30 Hours</span></h4>
                             <a href="/apply" className="buy-btn">Apply Now</a>
@@ -69,9 +69,9 @@ const Course = () => {
                             </div>
                         </div>
                     
-                        <div className="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
+                        <div className="col-lg-4 mt-4 mt-lg-3" data-aos="fade-up" data-aos-delay="300">
                             <div className="box">
-                            <h3>Graphic Designing</h3>
+                            <h2>Graphic Designing</h2>
                             <h6>Pre-Requisite : N/A</h6>
                             <h4><sup>₹</sup>2000<span>10 Hours</span></h4>
                             <a href="/apply" className="buy-btn">Apply Now</a>
@@ -79,9 +79,9 @@ const Course = () => {
                             </div>
                         </div>
                     
-                        <div className="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
+                        <div className="col-lg-4 mt-4 mt-lg-3" data-aos="fade-up" data-aos-delay="300">
                             <div className="box">
-                            <h3>Data Analysis</h3>
+                            <h2>Data Analysis</h2>
                             <h6>Pre-Requisite : N/A</h6>
                             <h4><sup>₹</sup>9000<span>40 Hours</span></h4>
                             <a href="/apply" className="buy-btn">Apply Now</a>
@@ -89,9 +89,9 @@ const Course = () => {
                             </div>
                         </div>
                     
-                        <div className="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
+                        <div className="col-lg-4 mt-4 mt-lg-3" data-aos="fade-up" data-aos-delay="300">
                             <div className="box">
-                            <h3>Machine Leaning</h3>
+                            <h2>Machine Leaning</h2>
                             <h6>Pre-Requisite : Data Analysis</h6>
                             <h4><sup>₹</sup>6000<span>15 Hours</span></h4>
                             <a href="/apply" className="buy-btn">Apply Now</a>
@@ -99,9 +99,9 @@ const Course = () => {
                             </div>
                         </div>
                     
-                        <div className="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
+                        <div className="col-lg-4 mt-4 mt-lg-3" data-aos="fade-up" data-aos-delay="300">
                             <div className="box">
-                            <h3>MS Excel</h3>
+                            <h2>MS Excel</h2>
                             <h6>Pre-Requisite : N/A</h6>
                             <h4><sup>₹</sup>1500<span>10 Hours</span></h4>
                             <a href="/apply" className="buy-btn">Apply Now</a>
@@ -109,9 +109,9 @@ const Course = () => {
                             </div>
                         </div>
                     
-                        <div className="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
+                        <div className="col-lg-4 mt-4 mt-lg-3" data-aos="fade-up" data-aos-delay="300">
                             <div className="box">
-                            <h3>Search Engine Optimization</h3>
+                            <h2>Search Engine Optimization</h2>
                             <h6>Pre-Requisite : N/A</h6>
                             <h4><sup>₹</sup>3000<span>10 Hours</span></h4>
                             <a href="/apply" className="buy-btn">Apply Now</a>
@@ -119,9 +119,9 @@ const Course = () => {
                             </div>
                         </div>
                     
-                        <div className="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
+                        <div className="col-lg-4 mt-4 mt-lg-3" data-aos="fade-up" data-aos-delay="300">
                             <div className="box">
-                            <h3>Android</h3>
+                            <h2>Android</h2>
                             <h6>Pre-Requisite : Java</h6>
                             <h4><sup>₹</sup>10000<span>30 Hours</span></h4>
                             <a href="/" className="buy-btnn">Coming Soon</a>

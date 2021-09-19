@@ -12,11 +12,11 @@ const Navbar = () => {
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav mx-auto">
                         <li className="nav-item"><a className="nav-link scrollto active" href="#hero">Home</a></li>
-                        <li className="nav-item"><a className="nav-link scrollto" href="#pricing">Courses</a></li>
-                        <li className="nav-item"><a className="nav-link scrollto" href="#about">About Us</a></li>
-                        <li className="nav-item"><a className="nav-link scrollto" href="#faq">FAQs</a></li>
-                        <li className="nav-item"><a className="nav-link scrollto" href="#contact">Contact Us</a></li>
-                        <li className="nav-item"><a className="nav-link scrollto" href="#team">Our Team</a></li>
+                        <li className="nav-item"><a className="nav-link scrollto active" href="#pricing">Courses</a></li>
+                        <li className="nav-item"><a className="nav-link scrollto active" href="#about">About Us</a></li>
+                        <li className="nav-item"><a className="nav-link scrollto active" href="#faq">FAQs</a></li>
+                        <li className="nav-item"><a className="nav-link scrollto active" href="#contact">Contact Us</a></li>
+                        <li className="nav-item"><a className="nav-link scrollto active" href="#team">Our Team</a></li>
                     </ul>
                         <a className="getstarted scrollto" href="/"  target="_blank">Book Free Class</a>
                 </div>

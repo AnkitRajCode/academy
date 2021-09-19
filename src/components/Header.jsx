@@ -6,8 +6,8 @@ const Header = () => {
                 <div className="container">
                 <div className="row">
                     <div className="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
-                    <h1>Inspiring Future Devs</h1>
-                    <h2>We are team of talented individuals providing best IT courses for Students of Class 8 and above.</h2>
+                    <h1>INFLUENCING THE NEXT-GEN DEVS</h1>
+                    <h2>We are a group of skilled professionals dedicated to offering the best IT education to students in grades 8 and up who think OOTB.</h2>
                     <div className="d-flex justify-content-center justify-content-lg-start">
                         <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" className="glightbox btn-watch-video"><i className="bi bi-play-circle"></i><span>Watch Video</span></a>
                     </div>

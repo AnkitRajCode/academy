@@ -5,7 +5,7 @@ const Course = () => {
                 <div className="container" data-aos="fade-up">
                     <div className="section-title">
                         <h2>Courses</h2>
-                        <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                        <p>We understand the value of authenticity and knowledge, which is why we have selected only the finest for you. To keep the sessions engaging, we make sure that our mentors are extremely skilled and have excellent interpersonal skill sets.</p>
                     </div>
 
                     <div className="row">

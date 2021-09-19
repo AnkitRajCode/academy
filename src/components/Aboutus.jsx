@@ -8,22 +8,19 @@ const Aboutus = () => {
                     </div>
                     <div className="row content">
                         <div className="col-lg-6">
-                            <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                            magna aliqua.
-                            </p>
                             <ul>
-                                <li><i className="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
-                                <li><i className="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit</li>
-                                <li><i className="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
+                                <li><i className="ri-check-double-line"></i> Live Online Classes at optimal prices</li>
+                                <li><i className="ri-check-double-line"></i> Provision of Free Handwritten Notes</li>
+                                <li><i className="ri-check-double-line"></i> Separate Doubt Clearing Classes </li>
+                                <li><i className="ri-check-double-line"></i> Conduction of Regular Assessment Every Week </li>
+                                <li><i className="ri-check-double-line"></i> Free Bootcamp Every Fortnight Guaranteed </li>
+                                <li><i className="ri-check-double-line"></i> Mock Interviews for B. Tech Final Year Students </li>
+                                <li><i className="ri-check-double-line"></i> A Mentor for the entire Course Duration </li>
+                                <li><i className="ri-check-double-line"></i> College Suggestions for 12th appearing and drop-year students </li>
                             </ul>
                         </div>
                         <div className="col-lg-6 pt-4 pt-lg-0">
-                            <p>
-                            Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                            culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Libero quos incidunt rem aut modi est esse fugiat eum provident officiis!
-                            </p>
+                            <p>LTC Academy is a nationwide community of individuals with various views and personalities who are learning and growing together. It's a place where individuals can show off their skills, speak about their difficulties, debate current events, and establish a network that's stronger than any connection. We engage in learning, developing, and growing collectively as we concentrate on the holistic development of our students. </p>
                         </div>
                     </div>
                 </div>

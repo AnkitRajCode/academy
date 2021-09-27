@@ -9,7 +9,7 @@ const Header = () => {
                     <h1>INFLUENCING THE NEXT-GEN DEVS</h1>
                     <h2>We are a group of skilled professionals dedicated to offering the best IT education to students in grades 8 and up who think OOTB.</h2>
                     <div className="d-flex justify-content-center justify-content-lg-start">
-                        <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" className="glightbox btn-watch-video"><i className="bi bi-play-circle"></i><span>Watch Video</span></a>
+                        <a target="_blank" href="https://youtu.be/artSZhXhXTo"  class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
                     </div>
                     </div>
                     <div className="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="200">

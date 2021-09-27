@@ -5,7 +5,7 @@ const Team = () => {
     return ( 
         <div className="team">
             <section id="team" className="team section-bg">
-                <div className="container" data-aos="fade-up">
+                <div className="container" >
 
                     <div className="section-title">
                     <h2>Team</h2>

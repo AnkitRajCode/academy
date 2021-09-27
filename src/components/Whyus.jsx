@@ -11,24 +11,9 @@ const Whyus = () => {
                         <div className="content">
                             <h3>We've witnessed time and time again at <strong> LTC Academy</strong></h3>
                             <p>How the apparently simple act of creating can be a spark for personal growth, transformation, and discoveries. We aim to encourage and spread the type of intellectual inquiry that leads to increased expression, learning, and application. With Live Online Classes, you get to understand in-demand skills and get to select from a variety of courses taught by real-life professionals.</p>
+                            
                         </div>
-
-                        <div className="accordion-list">
-                            <ul>
-
-                                <li>
-                                <a data-bs-toggle="collapse" className="collapse" data-bs-target="#accordion-list-1"><span>01</span> LTC Academy is an online educational community <i className="bx bx-chevron-down icon-show"></i><i className="bx bx-chevron-up icon-close"></i></a>
-                                <div id="accordion-list-1" className="collapse show" data-bs-parent=".accordion-list">
-                                    <p>
-                                    with thousands of lessons on topics such as C and C++, SOL, HTML and CSS, DATA SCIENCE, and more. Thousands of people join to discover inspiration and take the next step in their professional path. We aim to enhance everyone's accessibility to high education, no matter where they live. Through research, we believe to strengthen teaching and learning.
-                                    </p>
-                                </div>
-                                </li>
-                                
-                            </ul>
-                        </div>
-
-                        <div className="row px-5 ml-4">
+                        <div className="row px-5 ml-4 my-2">
                             <h6>At LTC Academy, We Emancipate:</h6>
                             
                             <ul className="col-md-4" type="dot">
@@ -54,6 +39,20 @@ const Whyus = () => {
                                     <li>Make an impact.</li>
                                     <li>Live a full life.</li>
                                 </ul>
+                            </ul>
+                        </div>
+                        <div className="accordion-list">
+                            <ul>
+
+                                <li>
+                                <a data-bs-toggle="collapse" className="collapse" data-bs-target="#accordion-list-1"><span>01</span> LTC Academy is an online educational community <i className="bx bx-chevron-down icon-show"></i><i className="bx bx-chevron-up icon-close"></i></a>
+                                <div id="accordion-list-1" className="collapse" data-bs-parent=".accordion-list">
+                                    <p>
+                                    with thousands of lessons on topics such as C and C++, SOL, HTML and CSS, DATA SCIENCE, and more. Thousands of people join to discover inspiration and take the next step in their professional path. We aim to enhance everyone's accessibility to high education, no matter where they live. Through research, we believe to strengthen teaching and learning.
+                                    </p>
+                                </div>
+                                </li>
+                                
                             </ul>
                         </div>
 

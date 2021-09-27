@@ -1,3 +1,5 @@
+import Map from "./MapContainer";
+
 const Contact = () => {
     return ( 
         <div className="contact">
@@ -30,7 +32,7 @@ const Contact = () => {
                             <p>+91 7381 75 7879</p>
                         </div>
 
-                        <iframe src="https://www.google.com/maps/place/Patia,+Bhubaneswar,+Odisha/@20.3526089,85.8118284,18z/data=!4m5!3m4!1s0x3a190912b69339ab:0xa11e7186a04f1474!8m2!3d20.3532772!4d85.8265977" frameborder="0" style={{border:"0", width: "100%", height: "290px"}} allowfullscreen></iframe>
+                        <Map></Map>
                         </div>
 
                     </div>

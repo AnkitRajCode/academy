@@ -439,11 +439,12 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   font-size: 32px;
   transition: 0.3s;
+  text-decoration: none;
   margin-right: 8px;
 }
 
 #hero .btn-watch-video:hover i {
-  color: #47b2e4;
+  color: gray;
 }
 
 #hero .animated {

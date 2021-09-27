@@ -18,7 +18,7 @@ const Navbar = () => {
                         <li className="nav-item"><a className="nav-link scrollto active" href="#contact">Contact Us</a></li>
                         <li className="nav-item"><a className="nav-link scrollto active" href="#team">Our Team</a></li>
                     </ul>
-                        <a className="getstarted scrollto" href="/"  target="_blank">Book Free Class</a>
+                        <a className="getstarted scrollto" href="/book"  target="_blank">Book Free Class</a>
                 </div>
             </div>
                 </nav>
